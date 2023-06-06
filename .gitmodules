@@ -1,0 +1,3 @@
+[submodule "projectMedC"]
+	path = projectMedC
+	url = https://github.com/vasudeywos/Medc_Task.git
